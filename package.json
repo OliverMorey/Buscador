@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.15.2",
-    "express": "^4.14.0",
+    "express": "^4.17.3",
     "httpdispatcher": "^1.0.0",
     "promise": "^8.0.3"
   }
